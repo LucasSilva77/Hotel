@@ -1,4 +1,4 @@
-# README - Sistema de Reservas do Hotel
+# Sistema de Reservas do Hotel
 Este é um programa de reservas para um hotel, onde você pode realizar diferentes tarefas, dependendo da opção selecionada.
 
 ## 1) Quantos quartos são? 
