@@ -60,3 +60,16 @@ O programa realiza as seguintes tarefas:
 -Calcula qual é o combustível mais atraente com base na relação de preços. <br>
 -Verifica qual posto de gasolina oferece o preço mais baixo para o combustível selecionado. <br>
 -Informa ao usuário qual é o combustível mais atraente e qual posto de gasolina oferece o preço mais baixo. <br>
+
+## 9)Orçamento de Manutenção de Ar Condicionado
+Este é um programa desenvolvido para calcular o valor total do serviço de manutenção de ar condicionado em diferentes empresas terceirizadas, levando em consideração o valor por aparelho, a quantidade de aparelhos em manutenção, o percentual de desconto e a quantidade mínima de aparelhos para que o desconto seja aplicado.
+
+Funcionalidade:
+O programa realiza as seguintes tarefas:
+
+-Recebe o valor do serviço por aparelho, a quantidade de aparelhos em manutenção, o percentual de desconto e a quantidade mínima de aparelhos para que o desconto seja aplicado. <br>
+-Calcula o valor total do serviço com base no valor por aparelho e na quantidade de aparelhos. <br>
+-Verifica se a quantidade de aparelhos é maior que a quantidade mínima para que o desconto seja aplicado. <br>
+-Se a quantidade de aparelhos for maior ou igual à quantidade mínima, aplica o desconto sobre o valor total do serviço. <br>
+-Exibe na tela o valor total do serviço para cada empresa informada. <br>
+-Ao final, identifica e exibe o orçamento de menor valor entre as empresas informadas. <br>
