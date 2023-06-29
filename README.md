@@ -30,6 +30,22 @@ O auditório Laranja possui 150 lugares e espaço para até 70 cadeiras adiciona
 
 O programa desenvolvido recebe como entrada o número de convidados para o evento e realiza a seguinte verificação:
 
-Se o número de convidados for maior que 350 ou menor que zero, exibe a mensagem "Número de convidados inválido". <br>
+-Se o número de convidados for maior que 350 ou menor que zero, exibe a mensagem "Número de convidados inválido". <br>
 Caso o número de convidados seja válido, o programa determina qual dos auditórios é o mais adequado, dando prioridade ao Auditório Laranja. <br>
-Se o auditório Laranja for escolhido, o programa calcula a quantidade de cadeiras adicionais necessárias, levando em consideração o limite de 70 cadeiras adicionais. <br>
+-Se o auditório Laranja for escolhido, o programa calcula a quantidade de cadeiras adicionais necessárias, levando em consideração o limite de 70 cadeiras adicionais. <br>
+
+## 7)Reserva no Restaurante do Hotel
+Este é um programa desenvolvido para verificar a disponibilidade do restaurante do hotel para reservas, levando em consideração os dias da semana e os horários de funcionamento.
+
+Funcionalidade
+O restaurante do hotel está disponível para reservas de acordo com os seguintes horários:
+
+Segunda a sexta-feira: das 7h às 23h.
+Sábados e domingos: das 7h às 15h.
+O programa realiza as seguintes tarefas:
+
+-Recebe o dia da semana em formato de texto (letras minúsculas, sem acentos). <br>
+-Recebe a hora do dia (apenas o número inteiro, desconsiderando minutos e segundos). <br>
+-Verifica se o restaurante está disponível de acordo com as regras especificadas acima. <br>
+-Quando o restaurante estiver disponível, o programa solicita o nome da empresa que deseja fazer a reserva. <br>
+-Exibe na tela a mensagem "Restaurante reservado para (nome da empresa): (dia da semana) às (horas)h" quando a reserva for realizada com sucesso. <br>
