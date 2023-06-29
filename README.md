@@ -6,3 +6,14 @@ Nesta opção, o programa permite que você informe o valor de uma diária no ho
 
 ## 2) Como soletra?
 Nesta opção, o programa permite o cadastro de hóspedes. É solicitado o valor padrão da diária e, em seguida, é possível cadastrar vários hóspedes, informando seus nomes e idades. Caso o hóspede tenha menos de 6 anos, a diária é gratuita, e essa informação é exibida na tela. Caso o hóspede tenha mais de 60 anos, ele paga metade da diária, e essa informação também é exibida. O programa continuará a receber os nomes e idades dos hóspedes até que a palavra "PARE" seja digitada, interrompendo a entrada de dados. Ao final, o programa exibirá a quantidade de gratuidades, a quantidade de meias hospedagens e o valor total considerando todos os hóspedes informados.
+
+## 3) Com "S" ou com "Z"?
+Nesta opção, o programa permite o cadastro e pesquisa de hóspedes. O usuário pode selecionar entre diferentes opções: cadastrar, pesquisar, listar e sair.
+
+A opção "cadastrar" permite que o usuário informe o nome de um hóspede e o programa o cadastra em memória. É possível realizar até 15 cadastros, e caso o limite seja atingido, será exibida a mensagem "Máximo de cadastros atingido".
+
+A opção "pesquisar" permite que o usuário informe o nome de um hóspede e o programa verifica se o nome exato foi encontrado. Em caso afirmativo, é exibida a mensagem "Hóspede (nome) foi encontrado". Se o nome não for encontrado, será exibida a mensagem "Hóspede não encontrado".
+
+A opção "listar" exibe todos os hóspedes cadastrados um a um.
+
+O programa permite que o usuário realize essas operações repetidamente até escolher a opção "sair".
