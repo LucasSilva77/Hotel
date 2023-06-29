@@ -24,3 +24,12 @@ Nesta opção, o programa permite o cálculo do custo total para contratar garç
 ## 5) Hora de comer
 Este projeto consiste em um programa que calcula a quantidade de água, café e salgados necessários para um evento realizado em um salão de um hotel. Além disso, o programa também calcula o custo total com comida do evento, com base nos preços estabelecidos. Por fim, o usuário será solicitado a confirmar os valores, e a reserva será efetuada caso a resposta seja "SIM".
 
+## 6)Auditório do Hotel
+Este é um programa desenvolvido para ajudar a determinar qual dos dois auditórios de um hotel é o mais adequado para um evento, com base no número de convidados. O hotel possui dois auditórios: Laranja e Colorado.
+O auditório Laranja possui 150 lugares e espaço para até 70 cadeiras adicionais. Já o auditório Colorado tem capacidade para 350 lugares, sem a possibilidade de adicionar mais cadeiras.
+
+O programa desenvolvido recebe como entrada o número de convidados para o evento e realiza a seguinte verificação:
+
+Se o número de convidados for maior que 350 ou menor que zero, exibe a mensagem "Número de convidados inválido".
+Caso o número de convidados seja válido, o programa determina qual dos auditórios é o mais adequado, dando prioridade ao Auditório Laranja.
+Se o auditório Laranja for escolhido, o programa calcula a quantidade de cadeiras adicionais necessárias, levando em consideração o limite de 70 cadeiras adicionais.
