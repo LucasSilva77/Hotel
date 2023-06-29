@@ -17,3 +17,10 @@ A opção "pesquisar" permite que o usuário informe o nome de um hóspede e o p
 A opção "listar" exibe todos os hóspedes cadastrados um a um.
 
 O programa permite que o usuário realize essas operações repetidamente até escolher a opção "sair".
+
+## 4) Festa ou trabalho?
+Nesta opção, o programa permite o cálculo do custo total para contratar garçons em um evento. O usuário precisa informar o número de garçons necessários e o total de horas do evento. O programa então calcula o custo total com base no valor de R$10,50 por hora por garçom e exibe o resultado na tela. Por fim, o programa pergunta se o usuário aceita os valores. Se a resposta for "S" (sim), é exibida a mensagem "Reserva efetuada com sucesso". Caso contrário, o programa retorna ao menu principal.
+
+## 5) Hora de comer
+Este projeto consiste em um programa que calcula a quantidade de água, café e salgados necessários para um evento realizado em um salão de um hotel. Além disso, o programa também calcula o custo total com comida do evento, com base nos preços estabelecidos. Por fim, o usuário será solicitado a confirmar os valores, e a reserva será efetuada caso a resposta seja "SIM".
+
