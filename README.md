@@ -49,3 +49,14 @@ O programa realiza as seguintes tarefas:
 -Verifica se o restaurante está disponível de acordo com as regras especificadas acima. <br>
 -Quando o restaurante estiver disponível, o programa solicita o nome da empresa que deseja fazer a reserva. <br>
 -Exibe na tela a mensagem "Restaurante reservado para (nome da empresa): (dia da semana) às (horas)h" quando a reserva for realizada com sucesso. <br>
+
+## 8) Comparador de Combustível - Álcool ou Gasolina
+Este é um programa desenvolvido para ajudar a determinar qual é o combustível mais atraente e qual posto de gasolina oferece o preço mais baixo para abastecer o carro do hotel.
+
+Funcionalidade
+O programa realiza as seguintes tarefas:
+
+-Recebe os valores do álcool e da gasolina nos postos Wayne Oil e Stark Petrol. <br>
+-Calcula qual é o combustível mais atraente com base na relação de preços. <br>
+-Verifica qual posto de gasolina oferece o preço mais baixo para o combustível selecionado. <br>
+-Informa ao usuário qual é o combustível mais atraente e qual posto de gasolina oferece o preço mais baixo. <br>
