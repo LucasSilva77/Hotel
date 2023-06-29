@@ -30,6 +30,6 @@ O auditório Laranja possui 150 lugares e espaço para até 70 cadeiras adiciona
 
 O programa desenvolvido recebe como entrada o número de convidados para o evento e realiza a seguinte verificação:
 
-Se o número de convidados for maior que 350 ou menor que zero, exibe a mensagem "Número de convidados inválido".
-Caso o número de convidados seja válido, o programa determina qual dos auditórios é o mais adequado, dando prioridade ao Auditório Laranja.
-Se o auditório Laranja for escolhido, o programa calcula a quantidade de cadeiras adicionais necessárias, levando em consideração o limite de 70 cadeiras adicionais.
+Se o número de convidados for maior que 350 ou menor que zero, exibe a mensagem "Número de convidados inválido". <br>
+Caso o número de convidados seja válido, o programa determina qual dos auditórios é o mais adequado, dando prioridade ao Auditório Laranja. <br>
+Se o auditório Laranja for escolhido, o programa calcula a quantidade de cadeiras adicionais necessárias, levando em consideração o limite de 70 cadeiras adicionais. <br>
